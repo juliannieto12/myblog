@@ -1,0 +1,97 @@
+*{
+	outline: none;
+    margin: 0%;
+}
+
+.menu{
+    background-color:#00264d; 
+		text-align: center;
+		height: 45px;
+		padding-top: 14px;
+		font-size: 24px;
+		padding-bottom: 5px;
+		margin: 0px;
+}
+
+.menu-item{
+    display: inline;
+	padding: 30px;
+
+}
+
+footer{
+	padding-top: 70px;
+	margin: 0px;
+}
+
+.menu-footer{
+	background-color: black;
+	text-align: center;
+	margin: 0px;
+	font-size: 22px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.menu-item-footer{
+	display: inline;
+	padding: 20px;
+}
+
+.link-footer{
+	text-decoration-color: white;
+	color:white;
+	text-decoration: none;
+}
+
+.link{
+    text-decoration-color: white; 
+    color:white;
+}
+
+
+
+form{
+    text-align: center;
+    background-color: white;
+    width: 510px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ccc;
+	padding-top: 10px;
+}
+#form-heading{
+    font-size: 24px;
+    padding-top: 30px;
+    padding-bottom: 32px;
+	text-align: center;
+}
+#input-wrapper{
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+.input-box{
+    font-size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+}
+#btn-submit{
+    background-color: #6592ee;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
